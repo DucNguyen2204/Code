@@ -1,0 +1,111 @@
+{
+"assets": [
+  {
+    "apr": 0.0055000000000000005,
+    "APY": 0.0,
+    "annualReturn": 0.0,
+    "assetCode": "FDHFN",
+    "type": "D",
+    "label": "Savings Account"
+  },
+  {
+    "apr": 0.0115,
+    "APY": 0.0,
+    "annualReturn": 0.0,
+    "assetCode": "DF321-1",
+    "type": "D",
+    "label": "Money Market Savings"
+  },
+  {
+    "apr": 0.017,
+    "APY": 0.0,
+    "annualReturn": 0.0,
+    "assetCode": "DSAEW2",
+    "type": "D",
+    "label": "Online Savings"
+  },
+  {
+    "rateOfReturn": 0.0,
+    "value": 0.0,
+    "annualReturn": 0.0,
+    "risk": 0.0,
+    "quarterlyDivident": 0.0,
+    "baseRateOfReturn": 0.055999999999999994,
+    "betaMeasure": 0.0115,
+    "stockSymbol": "GOOG",
+    "sharePrice": 814.708,
+    "assetCode": "GOOG001",
+    "type": "S",
+    "label": "Google Inc."
+  },
+  {
+    "rateOfReturn": 0.0,
+    "value": 0.0,
+    "annualReturn": 0.0,
+    "risk": 0.0,
+    "quarterlyDivident": 45.57,
+    "baseRateOfReturn": 0.0319,
+    "betaMeasure": 0.009399999999999999,
+    "stockSymbol": "PDE",
+    "sharePrice": 341.91,
+    "assetCode": "PANDA21",
+    "type": "S",
+    "label": "Panda Express"
+  },
+  {
+    "rateOfReturn": 0.0,
+    "value": 0.0,
+    "annualReturn": 0.0,
+    "risk": 0.0,
+    "quarterlyDivident": 2.75,
+    "baseRateOfReturn": 0.046,
+    "betaMeasure": 0.0079,
+    "stockSymbol": "VRA",
+    "sharePrice": 97.75,
+    "assetCode": "VRAIL1",
+    "type": "S",
+    "label": "Vietnamese Railway"
+  },
+  {
+    "quarterlyDivident": 2400.0,
+    "baseRateOfReturn": 0.0025,
+    "omegaMeasure": 0.0015,
+    "totalValue": 120000.0,
+    "annualReturn": 0.0,
+    "rateOfReturn": 0.0,
+    "value": 0.0,
+    "o": 0.0,
+    "omega": 0.0,
+    "assetCode": "RENT445",
+    "type": "P",
+    "label": "Rental Property"
+  },
+  {
+    "quarterlyDivident": 1232.0,
+    "baseRateOfReturn": 0.0123,
+    "omegaMeasure": 0.0013,
+    "totalValue": 54300.0,
+    "annualReturn": 0.0,
+    "rateOfReturn": 0.0,
+    "value": 0.0,
+    "o": 0.0,
+    "omega": 0.0,
+    "assetCode": "FDAFK2",
+    "type": "P",
+    "label": "Trump Pharmacy Store"
+  },
+  {
+    "quarterlyDivident": 2453.21,
+    "baseRateOfReturn": 0.021,
+    "omegaMeasure": 0.0054,
+    "totalValue": 13500.0,
+    "annualReturn": 0.0,
+    "rateOfReturn": 0.0,
+    "value": 0.0,
+    "o": 0.0,
+    "omega": 0.0,
+    "assetCode": "FCAER1",
+    "type": "P",
+    "label": "Kanye West Shoes Store"
+  }
+]}

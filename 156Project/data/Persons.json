@@ -1,0 +1,87 @@
+{
+"persons": [
+  {
+    "personCode": "32dfae",
+    "type": "J",
+    "secIdentifier": "fda21",
+    "firstName": "John",
+    "lastName": "Snow",
+    "address": {
+      "street": "1780 R Street",
+      "city": "Lincoln",
+      "state": "NE",
+      "zipCode": "68508",
+      "country": "United States"
+    },
+    "emailAddress": [
+      "jsnow2204@gmail.com"
+    ]
+  },
+  {
+    "personCode": "tyyIyH",
+    "type": "E",
+    "secIdentifier": "ere12",
+    "firstName": "Nicholas",
+    "lastName": "Burke",
+    "address": {
+      "street": "6 Truax Point",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "zipCode": "15255",
+      "country": "United States"
+    },
+    "emailAddress": [
+      "nburke0@constantcontact.com"
+    ]
+  },
+  {
+    "personCode": "0CcM3dw",
+    "firstName": "Ralph",
+    "lastName": "Castillo",
+    "address": {
+      "street": "8884 Spaight Court",
+      "city": "Madison",
+      "state": "Wisconsin",
+      "zipCode": "53710",
+      "country": "United States"
+    },
+    "emailAddress": [
+      "rcastillo1@newsvine.com"
+    ]
+  },
+  {
+    "personCode": "iyxIndTpea",
+    "type": "E",
+    "secIdentifier": "ab213",
+    "firstName": "Steve",
+    "lastName": "Riley",
+    "address": {
+      "street": "134 Talmadge Point",
+      "city": "Lake Worth",
+      "state": "Florida",
+      "zipCode": "33462",
+      "country": "United States"
+    },
+    "emailAddress": [
+      "sriley2@marketwatch.com",
+      " stever@gmail.com"
+    ]
+  },
+  {
+    "personCode": "sDRWi0f",
+    "type": "E",
+    "secIdentifier": "daf21",
+    "firstName": "Patricia",
+    "lastName": "Duncan",
+    "address": {
+      "street": "09 Merchant Avenue",
+      "city": "Clearwater",
+      "state": "Florida",
+      "zipCode": "33763",
+      "country": "United States"
+    },
+    "emailAddress": [
+      "pduncan3@free.fr"
+    ]
+  }
+]}
